@@ -1,5 +1,5 @@
 {
-  "name": "drizzle-vue-example",
+  "name": "drizzle-vue-box",
   "version": "0.0.1",
   "description": "",
   "main": "truffle-config.js",
@@ -10,7 +10,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Amal Sudama",
+    "email": "amal@trufflesuite.com",
+    "url": "http://github.com/truffle-box/drizzle-vue-box"
+  },
   "license": "ISC",
   "dependencies": {
     "openzeppelin-solidity": "^2.1.1"
