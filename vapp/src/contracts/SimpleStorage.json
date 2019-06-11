@@ -42,15 +42,15 @@
       "type": "function"
     }
   ],
-  "metadata": "{\"compiler\":{\"version\":\"0.5.8+commit.23d335f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[],\"name\":\"storedData\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"name\":\"x\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"name\":\"_message\",\"type\":\"string\"}],\"name\":\"StorageSet\",\"type\":\"event\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/Users/cds/work/drizzle-vue-box/contracts/SimpleStorage.sol\":\"SimpleStorage\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/cds/work/drizzle-vue-box/contracts/SimpleStorage.sol\":{\"keccak256\":\"0xbac7f1c6b4364baec3bd03ef1085097315ee9ef2a52b79b894a17a8aa9562977\",\"urls\":[\"bzzr://bdb6ede8c37728ed4e1fdcb8a27a4624122d8ecde9e37ce59c4a080517bf0482\"]}},\"version\":1}",
-  "bytecode": "0x608060405234801561001057600080fd5b50610122806100206000396000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c80632a1afcd914603757806360fe47b1146053575b600080fd5b603d607e565b6040518082815260200191505060405180910390f35b607c60048036036020811015606757600080fd5b81019080803590602001909291905050506084565b005b60005481565b806000819055507f60cdc157ca4737a5d39a0e107532616e7bf6946e615228812c7f9bc9f81797a66040518080602001828103825260198152602001807f446174612073746f726564207375636365737366756c6c79210000000000000081525060200191505060405180910390a15056fea165627a7a7230582038889b2c6b5b2f701a93b47e732cfa97df42652a63d9d6d2be2fdd9fbaa84d650029",
-  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060325760003560e01c80632a1afcd914603757806360fe47b1146053575b600080fd5b603d607e565b6040518082815260200191505060405180910390f35b607c60048036036020811015606757600080fd5b81019080803590602001909291905050506084565b005b60005481565b806000819055507f60cdc157ca4737a5d39a0e107532616e7bf6946e615228812c7f9bc9f81797a66040518080602001828103825260198152602001807f446174612073746f726564207375636365737366756c6c79210000000000000081525060200191505060405180910390a15056fea165627a7a7230582038889b2c6b5b2f701a93b47e732cfa97df42652a63d9d6d2be2fdd9fbaa84d650029",
+  "metadata": "{\"compiler\":{\"version\":\"0.5.8+commit.23d335f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[],\"name\":\"storedData\",\"outputs\":[{\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"name\":\"x\",\"type\":\"uint256\"}],\"name\":\"set\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"name\":\"_message\",\"type\":\"string\"}],\"name\":\"StorageSet\",\"type\":\"event\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/Users/amal/work/vue-box/contracts/SimpleStorage.sol\":\"SimpleStorage\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/amal/work/vue-box/contracts/SimpleStorage.sol\":{\"keccak256\":\"0xbac7f1c6b4364baec3bd03ef1085097315ee9ef2a52b79b894a17a8aa9562977\",\"urls\":[\"bzzr://bdb6ede8c37728ed4e1fdcb8a27a4624122d8ecde9e37ce59c4a080517bf0482\"]}},\"version\":1}",
+  "bytecode": "0x608060405234801561001057600080fd5b50610122806100206000396000f3fe6080604052348015600f57600080fd5b506004361060325760003560e01c80632a1afcd914603757806360fe47b1146053575b600080fd5b603d607e565b6040518082815260200191505060405180910390f35b607c60048036036020811015606757600080fd5b81019080803590602001909291905050506084565b005b60005481565b806000819055507f60cdc157ca4737a5d39a0e107532616e7bf6946e615228812c7f9bc9f81797a66040518080602001828103825260198152602001807f446174612073746f726564207375636365737366756c6c79210000000000000081525060200191505060405180910390a15056fea165627a7a723058207a174592a1123dda838a56c9e37df47a90811aa9771e34dc52777098f44773070029",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060325760003560e01c80632a1afcd914603757806360fe47b1146053575b600080fd5b603d607e565b6040518082815260200191505060405180910390f35b607c60048036036020811015606757600080fd5b81019080803590602001909291905050506084565b005b60005481565b806000819055507f60cdc157ca4737a5d39a0e107532616e7bf6946e615228812c7f9bc9f81797a66040518080602001828103825260198152602001807f446174612073746f726564207375636365737366756c6c79210000000000000081525060200191505060405180910390a15056fea165627a7a723058207a174592a1123dda838a56c9e37df47a90811aa9771e34dc52777098f44773070029",
   "sourceMap": "34:214:2:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;34:214:2;;;;;;;",
   "deployedSourceMap": "34:214:2:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;34:214:2;;;;;;;;;;;;;;;;;;;;;;;;103:22;;;:::i;:::-;;;;;;;;;;;;;;;;;;;132:114;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;132:114:2;;;;;;;;;;;;;;;;;:::i;:::-;;103:22;;;;:::o;132:114::-;183:1;170:10;:14;;;;200:39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;132:114;:::o",
   "source": "pragma solidity >=0.4.21 <0.6.0;\n\ncontract SimpleStorage {\n    event StorageSet(string _message);\n\n    uint public storedData;\n\n    function set(uint x) public {\n        storedData = x;\n\n        emit StorageSet(\"Data stored successfully!\");\n    }\n}\n",
-  "sourcePath": "/Users/cds/work/drizzle-vue-box/contracts/SimpleStorage.sol",
+  "sourcePath": "/Users/amal/work/vue-box/contracts/SimpleStorage.sol",
   "ast": {
-    "absolutePath": "/Users/cds/work/drizzle-vue-box/contracts/SimpleStorage.sol",
+    "absolutePath": "/Users/amal/work/vue-box/contracts/SimpleStorage.sol",
     "exportedSymbols": {
       "SimpleStorage": [
         217
@@ -327,7 +327,7 @@
     "src": "0:249:2"
   },
   "legacyAST": {
-    "absolutePath": "/Users/cds/work/drizzle-vue-box/contracts/SimpleStorage.sol",
+    "absolutePath": "/Users/amal/work/vue-box/contracts/SimpleStorage.sol",
     "exportedSymbols": {
       "SimpleStorage": [
         217
@@ -607,16 +607,9 @@
     "name": "solc",
     "version": "0.5.8+commit.23d335f2.Emscripten.clang"
   },
-  "networks": {
-    "5777": {
-      "events": {},
-      "links": {},
-      "address": "0xcb0d6ff1560eb9d74872B0b01F43C1108f94AFA5",
-      "transactionHash": "0xd063c810417daf9ca5c8a094ce8b9f685684121a8f77ac6c57223641a94c73fb"
-    }
-  },
+  "networks": {},
   "schemaVersion": "3.0.10",
-  "updatedAt": "2019-06-11T13:53:30.610Z",
+  "updatedAt": "2019-06-11T17:06:20.192Z",
   "devdoc": {
     "methods": {}
   },
