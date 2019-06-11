@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@drizzle/vue-plugin": "github:trufflesuite/drizzle-vue-plugin#2de6d8ff09ef94de0b06f96c1f7722563407f114",
+    "@drizzle/vue-plugin": "github:cds-amal/drizzle-vue-plugin#2ab21c81db6ab0d1c30584f4effb64e81da55dbc",
     "drizzle": "^1.4.0",
     "prettier": "^1.18.2",
     "vue": "^2.6.10",
