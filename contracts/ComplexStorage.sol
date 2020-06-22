@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.4.21 <0.6.0;
+pragma solidity >=0.4.20 <0.7.0;
 
 contract ComplexStorage {
     uint public storeduint1 = 15;
